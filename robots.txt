@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tokyo-debt.node-link.shop/sitemap.xml
+Sitemap: https://mapo-coin-choice.node-link.shop/sitemap.xml
